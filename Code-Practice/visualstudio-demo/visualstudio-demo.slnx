@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="visualstudio-demo.vcxproj" Id="42c8bb40-9380-4b31-be89-604b7122ff58" />
+</Solution>

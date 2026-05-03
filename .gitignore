@@ -1,0 +1,32 @@
+# Visual Studio / VS Code 缓存
+.vs/
+.vscode/.browse.VC.db
+.vscode/ipch/
+*.ipch
+*.sdf
+*.suo
+*.user
+
+# 编译产物
+Debug/
+Release/
+x64/
+build/
+dist/
+out/
+*.exe
+*.obj
+*.o
+*.dll
+*.pdb
+
+# 大型资源文件
+Resources/
+*.pdf
+*.zip
+*.rar
+*.7z
+
+# 系统文件
+.DS_Store
+Thumbs.db
