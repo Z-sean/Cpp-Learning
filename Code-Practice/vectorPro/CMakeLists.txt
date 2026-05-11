@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 4.2)
-project(StudentTest)
+project(vectorPro)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(StudentTest main.cpp)
+add_executable(vectorPro main.cpp)
